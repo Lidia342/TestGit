@@ -7,6 +7,6 @@ public class Hope {
     private String birthday;
     private String userName;
     private String password;
-  
+    private String password1;
 
 }
