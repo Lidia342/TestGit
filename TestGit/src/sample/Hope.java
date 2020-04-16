@@ -10,6 +10,5 @@ public class Hope {
     private String email;
     private String mobile;
     private String userRole;
-    private int paymentCard_id;
-    private int addresses_id;
+  
 }
