@@ -7,8 +7,6 @@ public class Hope {
     private String birthday;
     private String userName;
     private String password;
-    private String email;
-    private String mobile;
-    private String userRole;
   
+
 }
