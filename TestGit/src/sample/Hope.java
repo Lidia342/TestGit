@@ -8,5 +8,5 @@ public class Hope {
     private String userName;
     private String password;
     private String password1;
-
+    private String userName1;
 }
