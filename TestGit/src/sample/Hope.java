@@ -9,4 +9,5 @@ public class Hope {
     private String password;
     private String password1;
     private String userName1;
+    private String birthday1;
 }
